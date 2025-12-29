@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/ui',
     'nuxt-studio',
+    'motion-v/nuxt'
   ],
   devtools: { enabled: true },
   compatibilityDate: '2024-04-03',
